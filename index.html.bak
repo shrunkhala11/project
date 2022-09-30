@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>project</title>
+    <link rel="stylesheet" href="G:\project\css\style.css">
+</head>
+
+<body>
+    <div class="container">
+	   <div class="header">
+	    <div class="head1"></div>
+		<div class="head2"></div>
+        <div class="head3"></div>
+	   
+	   </div>
+	   
+	   <div class="main">
+	      <div class="main1">
+		   <pre>Great Design Collection</pre>
+           <h2>Mapple Wood Accent Chair</h2>
+           <p>Lorem Ipsum Dolor Sit Amet, Consectetur Adipisicing Elit, Sed Do Eiuiana Smod Tempor Ut Labore Et Dolore Magna Aliqua. Ut Enim Ad Minim Veniam, Quis Nostrud Exercitation Ullamco Laboris Nisi Ut Aliquip.</p>
+
+           <p>-$ 199.00$ 299.00</p>
+		  </div>
+		  <div class="main2"></div>
+	   </div>
+	   
+	   
+	</div>
+
+
+
+
+</body>
+</html>

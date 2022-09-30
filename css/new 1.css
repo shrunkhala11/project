@@ -1,0 +1,35 @@
+.article{
+	height:500px;
+	grid-area:article;
+	border:1px solid black;
+}
+.articlenav{
+	width:100%;
+	height:80px;
+	border:1px solid black;
+}
+.articlenav>h1{
+	color:black;
+	font-size:34px;
+	background-color:white;
+}
+.article1{
+	height:250px;
+	width:250px;
+	background-color:rgba(106,119,129,.1);
+    border:1px solid black;
+}
+.artimg{
+    height:160px;
+    width:100%;
+} 
+.artimg>img{
+	margin:30px;
+	margin-left:50px;
+}
+}
+.artinfo{
+	 height:90px;
+    width:100%;
+	text-align:center;
+}
